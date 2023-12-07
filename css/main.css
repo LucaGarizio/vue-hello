@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333;
+}
+
+.title{
+    text-align: center;
+    margin: 1rem 0;
+    font-size: 80px;
+    color: #fff;
+}
+
+.class-cont-img{ 
+    display: none;
+}
+
+.show{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.img{
+    width: 100%;  
+}
